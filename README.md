@@ -13,4 +13,4 @@ Finished
 <img src="Step4/step4.png">   
 Step 5   
 Finished   
-<img src="Step5/step5.png">   
+<img src="Step5/step5map.png">   
